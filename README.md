@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola, soy [Tu Nombre]! 👋</h1>
+<h1 align="center">¡Hola, soy Antonio Julian! 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Visitas&color=blue&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abueno19&label=Visitas&color=blue&style=flat" alt="Profile views" />
 </p>
 
 ## 🧑‍💻 Sobre mí  
